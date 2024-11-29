@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 3c81fcd4b6eaf6244b3cc86c254291f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: diamant-boy-419b99_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc169eb846d603542b1bbb08727dd668
+      internalID: 2031488978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 184.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c8e0d2b157f64488c39315c8ad5a55
+      internalID: -39444897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cecdaa62a84cdb49a3ceb5296ee7366
+      internalID: 552543198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d85f02af1fc74fbcdf8e56dd73080
+      internalID: 1792308845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd6cffcf58f494faedc23dc0bcd92a
+      internalID: -762826605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f3a6cf742614341939c535cd9fc76f
+      internalID: -507170020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870165d4f49ca744da9d73c407d04bdd
+      internalID: 1764859390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9559f2a279224badeb114177f5caf
+      internalID: 2112359275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928282bf1b2b1974fb93df8fef06bfdd
+      internalID: 1570136593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 62.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4908e5d2d5a944a8dab439ecc3bb2
+      internalID: 1360829701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 62.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42fe0b34d19e14eaf7fe7505193609
+      internalID: -220373432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 62.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2868c3a024184fba3cb71e3244b68
+      internalID: 1914000883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439cd1e123bccd04180a6595b6dcccfa
+      internalID: 248634232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aadc304c8c0b8249b2f484902cb335a
+      internalID: 1996101089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b30402c65b6e4d856e2ff72b313c6
+      internalID: -910047898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamant-boy-419b99_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1.5
+        width: 48
+        height: 61.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd103f5e40b204abe6e81699734d3c
+      internalID: -579270959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      diamant-boy-419b99_0: 2031488978
+      diamant-boy-419b99_1: -39444897
+      diamant-boy-419b99_10: -220373432
+      diamant-boy-419b99_11: 1914000883
+      diamant-boy-419b99_12: 248634232
+      diamant-boy-419b99_13: 1996101089
+      diamant-boy-419b99_14: -910047898
+      diamant-boy-419b99_15: -579270959
+      diamant-boy-419b99_2: 552543198
+      diamant-boy-419b99_3: 1792308845
+      diamant-boy-419b99_4: -762826605
+      diamant-boy-419b99_5: -507170020
+      diamant-boy-419b99_6: 1764859390
+      diamant-boy-419b99_7: 2112359275
+      diamant-boy-419b99_8: 1570136593
+      diamant-boy-419b99_9: 1360829701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
